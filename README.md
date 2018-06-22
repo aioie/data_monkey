@@ -2,4 +2,5 @@
 test to push this file to remote
 writen in remote origin
 more lines
-add more line on remote origin
+
+delete line 5 on master branch
